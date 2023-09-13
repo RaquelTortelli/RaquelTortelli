@@ -30,6 +30,7 @@ Estas são algumas das tecnologias e ferramentas com as quais pretendo estudar e
 
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/C%23-8A2BE2)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 
