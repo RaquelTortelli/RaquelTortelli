@@ -61,15 +61,10 @@ IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
         
 ____
- 
-       
- <div>
-  <a href="https://github.com/RaquelTortelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelTortelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelTortelli&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-    
-          
+      
+
+| <a href="https://github.com/RaquelTortelli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RaquelTortelli&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="RaquelTortelli's github stats" /></a> | <a href="https://github.com/RaquelTortelli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelTortelli&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | 
           
 <!---
 RaquelTortelli/RaquelTortelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
